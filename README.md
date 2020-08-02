@@ -1,4 +1,4 @@
-# DeepLearningAlgorithms
+# Deep-Learning-Algorithms
 Deep Learning Algorithms that every Data Scientist should know !!!
 
 ### Algorithms has been implemented in Python Language on Jupyter Notebook
